@@ -1,10 +1,11 @@
+import StringCalculator from "./components/StringCalculator";
 
 
 function App() {
 
   return (
     <>
-      <h1>dfjsnfksd</h1>
+      <StringCalculator />
     </>
   )
 }
